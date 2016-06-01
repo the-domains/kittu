@@ -1,0 +1,14 @@
+layout_spectrum: 0.08085106
+typography_spectrum: 1
+color:
+  lightness: 0.901206
+  brandStrength: 0.6895513
+  saturation: 0.6631421
+  rhythmicContrast: 0.8319149
+  brandColors:
+    - '#FEFFFF'
+    - '#070E1D'
+    - '#5B4E4D'
+    - '#A39689'
+    - '#587699'
+name: kittu
